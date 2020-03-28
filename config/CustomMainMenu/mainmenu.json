@@ -3,7 +3,7 @@
     {
         "title":
         {
-            "image" : "custommainmenu:textures/gui/grahams_minecraft_logo.png",
+            "image" : "custommainmenu:textures/gui/zimbabwecraft.png",
             "posX" : -148,
             "posY" : 40,
             "width" : 300,
@@ -124,21 +124,6 @@
     
     "labels":
     {
-        "mojang":
-        {
-            "text" : "Copyright LunchHouse. Do not distribute!",
-            "hoverText" : "§nCopyright Valve. Do not distribute!",
-            "posX" : -206,
-            "posY" : -10,
-            "color" : -1,
-            "alignment" : "bottom_right",
-            "action" : 
-            {
-                "type" : "openGui",
-                "gui" : "credits"
-            }
-        },
-        
         "fml":
         {
             "text" : "",
